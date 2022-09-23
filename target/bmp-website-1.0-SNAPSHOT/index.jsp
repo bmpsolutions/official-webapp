@@ -36,7 +36,7 @@
         <div class="container">
             <div class="dibiz-responsive-menu">
                 <div class="logo">
-                    <a href="1">
+                    <a href="#">
                         <img src="assets/img/logo.png" class="main-logo" style="height: 50px;" alt="logo">
                         <img src="assets/img/white-logo.png" style="height: 50px;" class="white-logo" alt="logo">
                     </a>
@@ -58,13 +58,13 @@
                     <ul class="navbar-nav">
                         <li class="nav-item"><a href="index.jsp" class="nav-link active">Home</a></li>
 
-                        <li class="nav-item"><a href="about-us.jsp" class="nav-link">About</a></li>
+                        <li class="nav-item"><a href="about-us.jsp" class="nav-link">About Us</a></li>
 
                         <li class="nav-item"><a href="#" class="nav-link">Portfolio</a></li>
 
                         <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
 
-                        <li class="nav-item"><a href="contact.jsp" class="nav-link">Contact</a></li>
+                        <li class="nav-item"><a href="contact.jsp" class="nav-link">Contact Us</a></li>
                     </ul>
                 </div>
             </nav>
@@ -244,7 +244,7 @@
                             <div class="circle-two"></div>
                         </div>
                     </div>
-                    <h3><a href="#">E-Commerce Web Application Development</a></h3>
+                    <h3><a href="#">Web Application Development</a></h3>
                     <a href="#" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i>
                         Learn More <i class="right-icon flaticon-next-button"></i></a>
                 </div>
